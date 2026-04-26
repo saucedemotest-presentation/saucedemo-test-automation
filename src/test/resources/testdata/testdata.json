@@ -11,9 +11,18 @@
     "username": "locked_out_user",
     "password": "secret_sauce"
   },
+  "performanceUser": {
+    "username": "performance_glitch_user",
+    "password": "secret_sauce"
+  },
   "checkoutUser": {
-    "firstName": "Sairam",
+    "firstName": "Siva",
     "lastName": "Bezawada",
-    "postalCode": "N2L3G1"
+    "postalCode": "N2L0B6"
+  },
+  "expectedMessages": {
+    "invalidLoginError": "Epic sadface: Username and password do not match any user in this service",
+    "lockedUserError": "Epic sadface: Sorry, this user has been locked out.",
+    "checkoutSuccess": "Thank you for your order!"
   }
 }
